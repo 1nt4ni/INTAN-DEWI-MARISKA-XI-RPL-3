@@ -8,4 +8,4 @@
 ----------------------------------------------------------------
 # Foto terbaik yang ada :
 
-![alt text](https://github.com/.../.../blob/master/....jpg)
+![alt text](https://github.com/1nt4ni/INTAN-DEWI-MARISKA-XI-RPL-3/blob/master/IMG20191028064441.jpg)
